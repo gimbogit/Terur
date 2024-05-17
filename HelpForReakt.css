@@ -32,6 +32,10 @@ img#kob {
     width: 30%;
 }
 
+img#truekob {
+    width: 200px;
+}
+
 img#joey {
     width: 20%;
 }
@@ -57,4 +61,30 @@ a {
 } */
 p#rr {
     margin-top: 40px;
+}
+
+.footer {
+    background-color: #e5962e;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    width: 99%;
+    font-size: 19px;
+    font-weight: bold;
+    color: #fafaff;
+}
+
+/* 
+details#typing {
+    margin-left: 200px;
+    float: right;
+} */
+summary {
+    background-color: darkred;
+    margin-right: 50%;
+}
+
+p#mr {
+    margin-right: 60%;
 }
